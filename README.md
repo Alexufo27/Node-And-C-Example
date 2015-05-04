@@ -5,5 +5,8 @@ To run this example fork this repo in your browser. Then run the following comma
   1. cd /route/to/fork/folder 
   2. npm install shelljs
   3. node app.js // run the app
+
+To compile the C program just run:
+	gcc program.c
   
 That's all ;)
